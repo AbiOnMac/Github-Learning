@@ -1,0 +1,11 @@
+git status
+
+//git checkout -b <branch_name>
+
+// change files
+git add . || git add <file_name>
+git commit -m "with message"
+git push
+
+//pull changes
+git pull
